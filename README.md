@@ -1,4 +1,4 @@
-![logo](https://github.com/alinasoy/alinasoy/blob/main/full-stack-development.gif)
+
 <h1 align="center">Hi 👋, I'm Alina Soy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/b7e84cd7df9d883ebab3618b73506c04d2b867b5249291268930f0ab1f02e2e2/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d32625a496a5047432d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e676966">
@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **alinasoy0501@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1p-C13ANsbni1_goz6JgI1NZZbgXigtFg84H9woEvkEk/edit?usp=sharing](https://docs.google.com/document/d/1p-C13ANsbni1_goz6JgI1NZZbgXigtFg84H9woEvkEk/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1HisYTeSnUF7ko4_hGiLaoP0I_c9OPEKpdFgBCvS22Fc/edit?usp=sharing](https://docs.google.com/document/d/1p-C13ANsbni1_goz6JgI1NZZbgXigtFg84H9woEvkEk/edit?usp=sharing)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
